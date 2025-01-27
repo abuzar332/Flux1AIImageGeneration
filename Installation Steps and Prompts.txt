@@ -1,0 +1,22 @@
+
+accept terms here 
+https://huggingface.co/black-forest-labs/FLUX.1-dev/tree/main
+download flux1 diffusion model
+https://huggingface.co/black-forest-labs/FLUX.1-dev/blob/main/flux1-dev.safetensors
+download vae
+https://huggingface.co/black-forest-labs/FLUX.1-dev/blob/main/ae.safetensors
+download clip models
+https://huggingface.co/comfyanonymous/flux_text_encoders/blob/main/t5xxl_fp16.safetensors
+https://huggingface.co/comfyanonymous/flux_text_encoders/blob/main/clip_l.safetensors
+
+
+Prompts Here:
+
+1:
+A vibrant jungle scene where a majestic tiger is sitting calmly below a large, ancient tree surrounded by a variety of animals gathered for a meeting. In the distance, a powerful lion is roaring loudly, summoning the remaining animals to join the gathering. The dense jungle is teeming with life, featuring lush greenery, tall trees, and beams of sunlight filtering through the canopy, creating a dramatic and lively atmosphere filled with anticipation
+
+2: 
+Three women's handbags displayed on a table inside a luxurious shop. The bags are in vibrant colors: one red, one yellow, and one pink. Among them, one is a Louis Vuitton bag, showcasing its signature design and elegance. The shop has a lavish interior with soft lighting, glass shelves, and a plush ambiance, emphasizing the exclusivity and high-end nature of the setting.
+
+3:
+A beautiful woman standing at the corner of a ship docked at the seashore. She is wearing a red top and pink jeans, smiling warmly and waving her hand toward a group of people on the shore. The background includes a calm ocean with gentle waves and a golden sunset creating a serene and picturesque atmosphere.
